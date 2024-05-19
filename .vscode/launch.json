@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://newsdata.io/api/1/news?apikey=pub_44379cba223bdc9c105c57f3f3a03248cf8ee&country=id&language=id&categories=health LOG  {\"results\": {\"code\": \"UnsupportedParameter\", \"message\": \"Ensure that you have passed the correct parameters. For more information, please refer to our documentation at: https://newsdata.io/documentation/\"}, \"status\": \"error\"}",
+            "request": "launch",
+            "url": "https://newsdata.io/api/1/news?apikey=pub_44379cba223bdc9c105c57f3f3a03248cf8ee&country=id&language=id&categories=health LOG  {\"results\": {\"code\": \"UnsupportedParameter\", \"message\": \"Ensure that you have passed the correct parameters. For more information, please refer to our documentation at: https://newsdata.io/documentation/\"}, \"status\": \"error\"}"
+        }
+    ]
+}
